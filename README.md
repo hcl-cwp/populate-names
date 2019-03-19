@@ -35,7 +35,7 @@ the Domino AppDev Pack. It is not meant to be used with a production address boo
 ## Installation
 
 Now clone the **populate-names** repository and install it. Let's assume your
-clone is in a folder called *-->samples/populate-names** and the **domino-db**
+clone is in a folder called **/samples/populate-names** and the **domino-db**
 archive is in your home directory.
 
 To install **populate-names**:

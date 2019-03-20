@@ -82,7 +82,10 @@ When you are done:
    connections.
 - The `credentials` object is required only for secure connections. If
   `connection.secure` is `true`, each string passed to `readFile()` must
-  refer to valid certificate or key file in your environment.
+  refer to valid certificate or key file in your environment. For more
+  information, see
+  [Client certificate authentication](https://doc.cwpcollaboration.com/appdevpack/docs/en/proton-admin.html#client-certificate-authentication)
+  in the Domino AppDev Pack documentation.
 
 ## Usage
 
